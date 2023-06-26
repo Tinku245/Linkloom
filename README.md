@@ -1,4 +1,4 @@
-# URL Shortener Service
+# Linkloom Service
 
 > API to create short urls using Node, Express and MongoDB
 
